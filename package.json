@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/EBambi/places-to-eat/issues"
   },
-  "homepage": "https://github.com/EBambi/places-to-eat#readme"
+  "homepage": "https://github.com/EBambi/places-to-eat#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
 }
